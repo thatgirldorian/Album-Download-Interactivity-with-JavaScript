@@ -1,6 +1,7 @@
 # Book-Download-Interactivity-with-JavaScript
 
 <h3>Function & Description:</h3>
+This is a small webpage that lets you download books by selecting them, and it tells you how any books you have now downloaded.
 
 
 
