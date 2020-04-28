@@ -1,7 +1,7 @@
 # Album-Download-Interactivity-with-JavaScript
 
 <h3>Function & Description:</h3>
-This is a small webpage that lets you download books by selecting them, and it tells you how any books you have now downloaded.
+This is a webpage that lets you download the albums you want and tells you how many albums you have now downloaded.
 
 
 
