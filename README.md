@@ -3,6 +3,12 @@
 <h3>Function & Description:</h3>
 This is a webpage that lets you download the albums you want and tells you how many albums you have now downloaded.
 
+This program will:
+
+- let the user click the albums they want to download
+- allow the user download the selected albums
+- show the user she selected the albums (will show a number here)
+
 
 
 
