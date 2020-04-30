@@ -8,6 +8,7 @@ This program will:
 - let the user click the albums they want to download
 - allow the user download the selected albums
 - show the user she selected the albums (will show a number here)
+- make the notification disappear after 2 seconds
 
 
 
