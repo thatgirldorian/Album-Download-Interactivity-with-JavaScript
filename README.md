@@ -26,3 +26,5 @@ This program will:
 
 <h3>Screenshot:</h3>
 
+![screenshot](https://user-images.githubusercontent.com/40691059/80922194-3fd68400-8d73-11ea-9281-dacc9367ee6b.PNG)
+
