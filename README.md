@@ -1,7 +1,7 @@
 # Album-Download-Interactivity-with-JavaScript
 
 <h3>Function & Description:</h3>
-This is asmall JavaScript app that lets you download the albums you want and tells you how many albums you have now downloaded.
+This is a small JavaScript app that lets you download the albums you want and tells you how many albums you have now downloaded.
 
 This program will:
 
